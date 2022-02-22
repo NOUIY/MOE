@@ -21,7 +21,7 @@
     <jsr305.version>3.0.2</jsr305.version>
     <args4j.version>2.32</args4j.version>
     <junit.version>4.13-SNAPSHOT</junit.version>
-    <truth.version>0.42</truth.version>
+    <truth.version>0.46</truth.version>
     <easymock.version>3.1</easymock.version>
     <mockito.version>1.9.5</mockito.version>
     <errorprone.version>2.3.1</errorprone.version>
